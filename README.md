@@ -51,11 +51,15 @@ The main steps included in this project:
 
 Use Terminal (or Colab / local environment):
 1. In Jupyter,
+
 -- streamlit run streamlit_project_5.py
 
-2. In colab,
+3. In colab,
+   
 %%writefile application.py
+
 " write the streamlit code "
+
 Run using cloudfare tunnel:
 
 ## Streamlit Application:
